@@ -36,17 +36,36 @@ PROCEDURE:
 
 CIRCUIT DIAGRAMS
 
-Half wave rectifier with filter:
+Half wave rectifier:
 
-Bridge rectifier with filter:
-
-TABULAR COLUMN
-Rectifier without filter
-TABULAR COLUMN
-Rectifier with filter
+![WhatsApp Image 2025-12-14 at 22 37 01_471a8897](https://github.com/user-attachments/assets/432e3de1-48f6-4126-8c6a-5ac82d0e637e)
 
 WAVEFORM:
 
+![WhatsApp Image 2025-12-14 at 22 35 16_376f209d](https://github.com/user-attachments/assets/bc224bcd-dac2-4aa3-acfb-b51ff84198e0)
+
+Full wave rectifier :
+
+![WhatsApp Image 2025-12-14 at 22 37 02_02a537f1](https://github.com/user-attachments/assets/f6628a3f-2a5c-4a28-9223-ceedb8115a00)
+
+WAVEFORM:
+
+![WhatsApp Image 2025-12-14 at 22 35 16_ba67dab0](https://github.com/user-attachments/assets/5a0ad03f-596c-4d18-a77d-b65efefae1a9)
+
+TABULAR COLUMN
+Half wave Rectifier:
+
+| *Input Voltage* |        | *Output Voltage (Without Filter)* |        | *Output Voltage (With Filter)* |        |
+|-------------------|--------|-------------------------------------|--------|----------------------------------|--------|
+| *Vm (V)*        | *t (ms)* | *Vm (V)*                        | *t (ms)* | *Vm (V)*                     | *t (ms)* |
+| 100               | 20     | 100                                 | 10     | 100 V, 5 V                      | 5 ms, 25 ms |
+
+Full wave Rectifier:
+
+| *Input Voltage* |        | *Output Voltage (Without Filter)* |        | *Output Voltage (With Filter)* |        |
+|-------------------|--------|-------------------------------------|--------|----------------------------------|--------|
+| *Vm (V)*        | *t (ms)* | *Vm (V)*                        | *t (ms)* | *Vm (V)*                     | *t (ms)* |
+| 50               | 20     | 50                                 | 5     | 50 V, 46 V                      | 5 ms, 14 ms |
 
 RESULT:
 
